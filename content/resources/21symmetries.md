@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/introduction-to-nuclear-engineering-and-ionizing-radiation/21symmetries_360p_16_9.mp4
+file_size: 10698425
 file_type: video/mp4
 image_metadata:
   caption: ''

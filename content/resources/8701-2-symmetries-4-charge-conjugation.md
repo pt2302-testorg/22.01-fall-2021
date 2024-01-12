@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/introduction-to-nuclear-engineering-and-ionizing-radiation/8701-2-symmetries-4-charge-conjugation.pdf
+file_size: 32093
 file_type: application/pdf
 image_metadata:
   caption: ''
